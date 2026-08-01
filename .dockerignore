@@ -1,0 +1,12 @@
+newenv/
+dataset/
+runs/
+training/
+dataset.zip
+__pycache__/
+*.pyc
+.git
+
+yolo26n.pt
+yolov8n.pt
+yolov8m.pt

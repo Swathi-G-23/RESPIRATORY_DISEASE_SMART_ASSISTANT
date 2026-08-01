@@ -1,0 +1,68 @@
+
+# Model file — auto-downloaded from HF at runtime (too large for GitHub)
+best.pt
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+newenv/
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Training artifacts (not needed for deployment)
+model_training/runs/
+model_training/dataset/
+model_training/yolo26n.pt
+model_training/yolov8n.pt
+model_training/yolov8m.pt
+model_training/training/
+dataset/
+dataset.zip
+runs/
+
+# Sample media/binary files
+samples/asthma/*.mp4
+samples/asthma/*.wav
+samples/asthma/*.png
+samples/asthma/*.jpg
+samples/normal/*.mp4
+samples/normal/*.wav
+samples/normal/*.png
+samples/normal/*.jpg
+samples/pneumonia/*.mp4
+samples/pneumonia/*.wav
+samples/pneumonia/*.png
+samples/pneumonia/*.jpg
+samples/respiratory_infection/*.mp4
+samples/respiratory_infection/*.wav
+samples/respiratory_infection/*.png
+samples/respiratory_infection/*.jpg
+
+# Local DB (ephemeral on cloud — recreated on startup)
+patients.db
+
+# Streamlit secrets
+.streamlit/secrets.toml

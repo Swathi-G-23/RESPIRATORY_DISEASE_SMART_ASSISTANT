@@ -1,0 +1,1001 @@
+age,gender,symptom_1,symptom_2,symptom_3,label
+61,Female,No Fever,Normal Breathing,Healthy,Normal
+20,Male,No Fever,Normal Breathing,Healthy,Normal
+36,Male,Rapid Breathing,Shortness of Breath,Chest Tightness,Asthma
+25,Male,No Fever,No Cough,Healthy,Normal
+17,Male,Mild Fever,Sore Throat,Runny Nose,Respiratory Infection
+8,Male,Rapid Breathing,Night Cough,Wheezing,Asthma
+19,Male,Wheezing,Chest Tightness,Shortness of Breath,Asthma
+66,Male,Nasal Congestion,Mild Fever,Sneezing,Respiratory Infection
+57,Female,Sneezing,Sore Throat,Runny Nose,Respiratory Infection
+59,Female,Sneezing,Sore Throat,Mild Fever,Respiratory Infection
+29,Male,Chest Pain,Persistent Cough,Fatigue,Pneumonia
+18,Male,Shortness of Breath,Rapid Breathing,Chest Tightness,Asthma
+57,Male,Shortness of Breath,Rapid Breathing,Chest Tightness,Asthma
+42,Female,Persistent Cough,Difficulty Breathing,Fatigue,Pneumonia
+48,Male,Rapid Breathing,Chest Tightness,Night Cough,Asthma
+29,Male,Chest Pain,Difficulty Breathing,Fatigue,Pneumonia
+54,Male,Persistent Cough,Fatigue,Chest Pain,Pneumonia
+9,Female,Chest Tightness,Night Cough,Rapid Breathing,Asthma
+18,Male,Rapid Breathing,Chest Tightness,Night Cough,Asthma
+21,Male,Sneezing,Sore Throat,Mild Fever,Respiratory Infection
+43,Female,Nasal Congestion,Sneezing,Sore Throat,Respiratory Infection
+36,Female,Sneezing,Mild Fever,Nasal Congestion,Respiratory Infection
+59,Female,Clear Lungs,No Cough,No Fever,Normal
+6,Male,Rapid Breathing,Chest Tightness,Night Cough,Asthma
+26,Male,Healthy,Clear Lungs,No Fever,Normal
+26,Male,Clear Lungs,No Cough,Healthy,Normal
+28,Male,Night Cough,Rapid Breathing,Shortness of Breath,Asthma
+35,Male,Chest Pain,Difficulty Breathing,Fatigue,Pneumonia
+10,Female,Healthy,Normal Breathing,Clear Lungs,Normal
+67,Female,Nasal Congestion,Sneezing,Sore Throat,Respiratory Infection
+19,Female,Sneezing,Runny Nose,Sore Throat,Respiratory Infection
+48,Female,Healthy,Clear Lungs,No Fever,Normal
+10,Female,Sneezing,Sore Throat,Nasal Congestion,Respiratory Infection
+27,Male,Clear Lungs,No Cough,No Fever,Normal
+76,Female,Difficulty Breathing,High Fever,Chest Pain,Pneumonia
+64,Female,Runny Nose,Sore Throat,Nasal Congestion,Respiratory Infection
+40,Male,Sneezing,Runny Nose,Nasal Congestion,Respiratory Infection
+10,Male,No Cough,Normal Breathing,Clear Lungs,Normal
+10,Female,High Fever,Fatigue,Chest Pain,Pneumonia
+42,Male,Fatigue,Chest Pain,High Fever,Pneumonia
+59,Female,Wheezing,Shortness of Breath,Chest Tightness,Asthma
+67,Female,Mild Fever,Nasal Congestion,Sore Throat,Respiratory Infection
+17,Female,Healthy,No Fever,Clear Lungs,Normal
+59,Female,High Fever,Persistent Cough,Chest Pain,Pneumonia
+13,Male,Sneezing,Nasal Congestion,Runny Nose,Respiratory Infection
+73,Female,Rapid Breathing,Wheezing,Shortness of Breath,Asthma
+35,Female,Chest Tightness,Wheezing,Rapid Breathing,Asthma
+12,Male,Night Cough,Shortness of Breath,Rapid Breathing,Asthma
+22,Female,Chest Pain,Persistent Cough,High Fever,Pneumonia
+45,Male,Mild Fever,Runny Nose,Nasal Congestion,Respiratory Infection
+7,Female,Night Cough,Rapid Breathing,Chest Tightness,Asthma
+67,Female,No Cough,Healthy,Normal Breathing,Normal
+43,Female,Difficulty Breathing,Chest Pain,High Fever,Pneumonia
+71,Female,Nasal Congestion,Sneezing,Mild Fever,Respiratory Infection
+32,Female,Night Cough,Chest Tightness,Wheezing,Asthma
+38,Male,Nasal Congestion,Mild Fever,Sore Throat,Respiratory Infection
+71,Male,Clear Lungs,Healthy,No Cough,Normal
+14,Female,Clear Lungs,Normal Breathing,No Fever,Normal
+46,Male,High Fever,Fatigue,Difficulty Breathing,Pneumonia
+21,Male,Night Cough,Chest Tightness,Rapid Breathing,Asthma
+7,Male,Wheezing,Shortness of Breath,Rapid Breathing,Asthma
+31,Female,Clear Lungs,Normal Breathing,Healthy,Normal
+70,Female,Persistent Cough,Difficulty Breathing,Chest Pain,Pneumonia
+72,Male,Chest Pain,Persistent Cough,Difficulty Breathing,Pneumonia
+31,Female,Clear Lungs,Normal Breathing,Healthy,Normal
+52,Female,Wheezing,Chest Tightness,Shortness of Breath,Asthma
+74,Male,Rapid Breathing,Wheezing,Night Cough,Asthma
+59,Female,Rapid Breathing,Chest Tightness,Night Cough,Asthma
+20,Female,Chest Tightness,Rapid Breathing,Night Cough,Asthma
+5,Male,No Fever,Healthy,Normal Breathing,Normal
+57,Female,Rapid Breathing,Chest Tightness,Night Cough,Asthma
+23,Male,Wheezing,Night Cough,Rapid Breathing,Asthma
+43,Female,Night Cough,Wheezing,Shortness of Breath,Asthma
+27,Male,Mild Fever,Nasal Congestion,Sore Throat,Respiratory Infection
+63,Female,Normal Breathing,Healthy,Clear Lungs,Normal
+30,Female,Sneezing,Mild Fever,Nasal Congestion,Respiratory Infection
+60,Male,Runny Nose,Sore Throat,Mild Fever,Respiratory Infection
+14,Male,No Cough,Healthy,No Fever,Normal
+66,Female,Chest Pain,Fatigue,Difficulty Breathing,Pneumonia
+49,Female,No Fever,Clear Lungs,No Cough,Normal
+12,Male,Healthy,Normal Breathing,No Cough,Normal
+29,Male,Chest Pain,High Fever,Fatigue,Pneumonia
+21,Female,Rapid Breathing,Chest Tightness,Night Cough,Asthma
+24,Female,No Cough,No Fever,Normal Breathing,Normal
+16,Male,Sneezing,Mild Fever,Runny Nose,Respiratory Infection
+76,Male,Fatigue,High Fever,Chest Pain,Pneumonia
+21,Male,Persistent Cough,Fatigue,Chest Pain,Pneumonia
+35,Female,High Fever,Persistent Cough,Difficulty Breathing,Pneumonia
+79,Male,High Fever,Fatigue,Persistent Cough,Pneumonia
+10,Female,Clear Lungs,Normal Breathing,No Fever,Normal
+33,Female,No Cough,No Fever,Normal Breathing,Normal
+48,Female,High Fever,Fatigue,Persistent Cough,Pneumonia
+54,Female,High Fever,Difficulty Breathing,Persistent Cough,Pneumonia
+23,Male,Wheezing,Chest Tightness,Night Cough,Asthma
+49,Female,No Cough,Healthy,Clear Lungs,Normal
+63,Male,Shortness of Breath,Night Cough,Rapid Breathing,Asthma
+7,Female,Difficulty Breathing,High Fever,Fatigue,Pneumonia
+25,Male,High Fever,Chest Pain,Persistent Cough,Pneumonia
+63,Male,Chest Tightness,Night Cough,Wheezing,Asthma
+59,Male,Shortness of Breath,Night Cough,Chest Tightness,Asthma
+73,Female,Fatigue,Persistent Cough,High Fever,Pneumonia
+56,Male,Runny Nose,Sore Throat,Nasal Congestion,Respiratory Infection
+20,Male,Runny Nose,Nasal Congestion,Mild Fever,Respiratory Infection
+61,Female,Fatigue,Difficulty Breathing,Persistent Cough,Pneumonia
+41,Female,Wheezing,Shortness of Breath,Night Cough,Asthma
+23,Female,Difficulty Breathing,Persistent Cough,High Fever,Pneumonia
+44,Female,Persistent Cough,Chest Pain,Fatigue,Pneumonia
+25,Male,Rapid Breathing,Shortness of Breath,Wheezing,Asthma
+67,Male,Mild Fever,Sneezing,Runny Nose,Respiratory Infection
+60,Female,Clear Lungs,Normal Breathing,No Fever,Normal
+31,Female,Clear Lungs,Healthy,Normal Breathing,Normal
+16,Male,Fatigue,Persistent Cough,Chest Pain,Pneumonia
+27,Female,Difficulty Breathing,Fatigue,Persistent Cough,Pneumonia
+47,Female,Sneezing,Runny Nose,Sore Throat,Respiratory Infection
+36,Female,Fatigue,Persistent Cough,Difficulty Breathing,Pneumonia
+31,Female,Fatigue,Persistent Cough,Chest Pain,Pneumonia
+38,Male,Normal Breathing,No Fever,No Cough,Normal
+73,Male,High Fever,Fatigue,Chest Pain,Pneumonia
+15,Male,Normal Breathing,No Cough,No Fever,Normal
+75,Female,Fatigue,Difficulty Breathing,Persistent Cough,Pneumonia
+60,Female,Night Cough,Rapid Breathing,Wheezing,Asthma
+62,Female,Chest Pain,Fatigue,High Fever,Pneumonia
+14,Male,Sore Throat,Nasal Congestion,Runny Nose,Respiratory Infection
+65,Male,Healthy,Normal Breathing,No Cough,Normal
+61,Male,Clear Lungs,No Fever,No Cough,Normal
+51,Male,Wheezing,Night Cough,Shortness of Breath,Asthma
+31,Female,Rapid Breathing,Chest Tightness,Shortness of Breath,Asthma
+8,Male,Shortness of Breath,Rapid Breathing,Chest Tightness,Asthma
+76,Male,No Fever,Clear Lungs,Normal Breathing,Normal
+39,Male,Sore Throat,Sneezing,Runny Nose,Respiratory Infection
+10,Female,Night Cough,Wheezing,Chest Tightness,Asthma
+72,Female,Night Cough,Shortness of Breath,Rapid Breathing,Asthma
+11,Female,Healthy,No Fever,No Cough,Normal
+13,Male,Healthy,Normal Breathing,No Fever,Normal
+63,Female,Sneezing,Runny Nose,Sore Throat,Respiratory Infection
+21,Male,Night Cough,Shortness of Breath,Rapid Breathing,Asthma
+41,Female,High Fever,Fatigue,Difficulty Breathing,Pneumonia
+43,Male,High Fever,Chest Pain,Difficulty Breathing,Pneumonia
+52,Female,Persistent Cough,Fatigue,Chest Pain,Pneumonia
+78,Female,Wheezing,Shortness of Breath,Night Cough,Asthma
+47,Male,Chest Pain,Persistent Cough,High Fever,Pneumonia
+33,Male,Rapid Breathing,Shortness of Breath,Chest Tightness,Asthma
+77,Male,Normal Breathing,Healthy,No Fever,Normal
+80,Female,Runny Nose,Sore Throat,Nasal Congestion,Respiratory Infection
+32,Female,Wheezing,Shortness of Breath,Rapid Breathing,Asthma
+70,Male,Chest Tightness,Rapid Breathing,Shortness of Breath,Asthma
+77,Male,Difficulty Breathing,Fatigue,Persistent Cough,Pneumonia
+48,Male,Clear Lungs,Healthy,No Fever,Normal
+32,Male,Night Cough,Wheezing,Chest Tightness,Asthma
+50,Male,Clear Lungs,No Cough,Healthy,Normal
+74,Female,Nasal Congestion,Sneezing,Sore Throat,Respiratory Infection
+6,Female,Persistent Cough,Chest Pain,High Fever,Pneumonia
+39,Female,Nasal Congestion,Sore Throat,Runny Nose,Respiratory Infection
+24,Male,Difficulty Breathing,High Fever,Fatigue,Pneumonia
+8,Female,Sneezing,Nasal Congestion,Sore Throat,Respiratory Infection
+18,Female,Mild Fever,Sneezing,Sore Throat,Respiratory Infection
+18,Male,Mild Fever,Sore Throat,Nasal Congestion,Respiratory Infection
+16,Male,Clear Lungs,No Cough,Normal Breathing,Normal
+46,Female,Rapid Breathing,Wheezing,Chest Tightness,Asthma
+45,Male,Runny Nose,Sore Throat,Nasal Congestion,Respiratory Infection
+46,Female,Sneezing,Runny Nose,Mild Fever,Respiratory Infection
+57,Male,Normal Breathing,Clear Lungs,Healthy,Normal
+57,Female,Wheezing,Shortness of Breath,Night Cough,Asthma
+52,Male,Clear Lungs,Healthy,No Fever,Normal
+35,Female,Healthy,Clear Lungs,No Fever,Normal
+9,Female,Persistent Cough,High Fever,Fatigue,Pneumonia
+45,Female,Sneezing,Sore Throat,Nasal Congestion,Respiratory Infection
+71,Male,Mild Fever,Sore Throat,Sneezing,Respiratory Infection
+58,Male,Chest Tightness,Rapid Breathing,Night Cough,Asthma
+78,Female,Persistent Cough,Chest Pain,High Fever,Pneumonia
+54,Male,Runny Nose,Nasal Congestion,Sore Throat,Respiratory Infection
+47,Male,Mild Fever,Nasal Congestion,Runny Nose,Respiratory Infection
+36,Male,No Fever,No Cough,Normal Breathing,Normal
+44,Male,Runny Nose,Nasal Congestion,Sneezing,Respiratory Infection
+61,Female,Wheezing,Chest Tightness,Rapid Breathing,Asthma
+52,Female,Sneezing,Sore Throat,Nasal Congestion,Respiratory Infection
+45,Female,No Fever,Healthy,No Cough,Normal
+54,Female,Clear Lungs,Normal Breathing,No Fever,Normal
+14,Female,Chest Tightness,Night Cough,Wheezing,Asthma
+52,Male,Rapid Breathing,Shortness of Breath,Wheezing,Asthma
+44,Female,Healthy,No Fever,Normal Breathing,Normal
+53,Female,Rapid Breathing,Wheezing,Shortness of Breath,Asthma
+51,Female,Shortness of Breath,Rapid Breathing,Chest Tightness,Asthma
+80,Male,Healthy,No Fever,Clear Lungs,Normal
+58,Male,Sore Throat,Runny Nose,Sneezing,Respiratory Infection
+37,Female,No Fever,Normal Breathing,Clear Lungs,Normal
+8,Male,Healthy,No Cough,Clear Lungs,Normal
+63,Male,Sneezing,Mild Fever,Runny Nose,Respiratory Infection
+36,Female,Mild Fever,Runny Nose,Nasal Congestion,Respiratory Infection
+35,Female,Nasal Congestion,Mild Fever,Runny Nose,Respiratory Infection
+16,Male,Mild Fever,Nasal Congestion,Runny Nose,Respiratory Infection
+55,Female,Fatigue,Persistent Cough,High Fever,Pneumonia
+60,Female,Sore Throat,Mild Fever,Sneezing,Respiratory Infection
+42,Male,No Cough,Healthy,No Fever,Normal
+24,Male,Normal Breathing,No Fever,Healthy,Normal
+60,Male,Persistent Cough,Difficulty Breathing,High Fever,Pneumonia
+42,Male,Rapid Breathing,Chest Tightness,Night Cough,Asthma
+61,Female,Chest Pain,High Fever,Persistent Cough,Pneumonia
+11,Female,Fatigue,Difficulty Breathing,Persistent Cough,Pneumonia
+57,Female,Wheezing,Shortness of Breath,Rapid Breathing,Asthma
+33,Female,Persistent Cough,Fatigue,High Fever,Pneumonia
+65,Female,Normal Breathing,No Fever,Healthy,Normal
+24,Female,Sneezing,Sore Throat,Mild Fever,Respiratory Infection
+11,Male,Mild Fever,Nasal Congestion,Sore Throat,Respiratory Infection
+22,Female,Runny Nose,Sneezing,Sore Throat,Respiratory Infection
+44,Female,Chest Tightness,Night Cough,Shortness of Breath,Asthma
+61,Male,Wheezing,Rapid Breathing,Shortness of Breath,Asthma
+32,Male,Wheezing,Shortness of Breath,Chest Tightness,Asthma
+17,Male,Nasal Congestion,Runny Nose,Sneezing,Respiratory Infection
+56,Female,No Fever,Healthy,Normal Breathing,Normal
+64,Female,High Fever,Difficulty Breathing,Persistent Cough,Pneumonia
+33,Female,Nasal Congestion,Mild Fever,Sore Throat,Respiratory Infection
+37,Male,Shortness of Breath,Rapid Breathing,Chest Tightness,Asthma
+21,Male,Runny Nose,Mild Fever,Sore Throat,Respiratory Infection
+50,Male,Fatigue,High Fever,Chest Pain,Pneumonia
+11,Male,Healthy,No Fever,Clear Lungs,Normal
+63,Male,Chest Pain,Fatigue,Difficulty Breathing,Pneumonia
+53,Female,Shortness of Breath,Night Cough,Chest Tightness,Asthma
+62,Male,Chest Pain,Difficulty Breathing,Fatigue,Pneumonia
+42,Male,Nasal Congestion,Sore Throat,Mild Fever,Respiratory Infection
+51,Female,Difficulty Breathing,Persistent Cough,Chest Pain,Pneumonia
+29,Male,Chest Pain,High Fever,Difficulty Breathing,Pneumonia
+28,Female,Wheezing,Night Cough,Shortness of Breath,Asthma
+33,Female,Clear Lungs,No Fever,Healthy,Normal
+11,Male,Night Cough,Wheezing,Chest Tightness,Asthma
+43,Male,Shortness of Breath,Chest Tightness,Wheezing,Asthma
+47,Female,No Fever,No Cough,Healthy,Normal
+30,Male,Chest Pain,Persistent Cough,High Fever,Pneumonia
+15,Female,Chest Pain,Difficulty Breathing,Persistent Cough,Pneumonia
+14,Female,Persistent Cough,Difficulty Breathing,High Fever,Pneumonia
+32,Female,Fatigue,Difficulty Breathing,High Fever,Pneumonia
+24,Male,Chest Pain,Fatigue,Persistent Cough,Pneumonia
+13,Female,No Cough,Normal Breathing,Healthy,Normal
+46,Male,Chest Tightness,Night Cough,Shortness of Breath,Asthma
+78,Male,Fatigue,High Fever,Persistent Cough,Pneumonia
+49,Female,No Cough,Normal Breathing,No Fever,Normal
+62,Male,Difficulty Breathing,Chest Pain,Fatigue,Pneumonia
+58,Male,Nasal Congestion,Mild Fever,Sneezing,Respiratory Infection
+29,Female,Sneezing,Sore Throat,Mild Fever,Respiratory Infection
+25,Female,Shortness of Breath,Chest Tightness,Rapid Breathing,Asthma
+31,Male,Mild Fever,Sore Throat,Runny Nose,Respiratory Infection
+46,Female,Chest Tightness,Shortness of Breath,Night Cough,Asthma
+18,Male,Difficulty Breathing,Chest Pain,High Fever,Pneumonia
+15,Female,Difficulty Breathing,High Fever,Chest Pain,Pneumonia
+10,Female,Mild Fever,Sneezing,Nasal Congestion,Respiratory Infection
+25,Female,Healthy,Normal Breathing,No Cough,Normal
+5,Male,Sneezing,Runny Nose,Mild Fever,Respiratory Infection
+6,Male,Healthy,No Cough,No Fever,Normal
+33,Female,Night Cough,Shortness of Breath,Rapid Breathing,Asthma
+45,Female,High Fever,Fatigue,Difficulty Breathing,Pneumonia
+27,Female,Shortness of Breath,Chest Tightness,Wheezing,Asthma
+79,Male,Difficulty Breathing,Persistent Cough,Chest Pain,Pneumonia
+58,Female,Difficulty Breathing,Persistent Cough,Fatigue,Pneumonia
+32,Male,Shortness of Breath,Rapid Breathing,Night Cough,Asthma
+52,Male,Normal Breathing,No Fever,Clear Lungs,Normal
+10,Male,Sore Throat,Sneezing,Runny Nose,Respiratory Infection
+44,Female,Sore Throat,Mild Fever,Nasal Congestion,Respiratory Infection
+20,Female,No Cough,Clear Lungs,Healthy,Normal
+62,Female,No Fever,Normal Breathing,No Cough,Normal
+34,Female,Healthy,Normal Breathing,No Fever,Normal
+77,Male,Night Cough,Chest Tightness,Wheezing,Asthma
+75,Male,Sneezing,Mild Fever,Sore Throat,Respiratory Infection
+71,Female,Sore Throat,Nasal Congestion,Mild Fever,Respiratory Infection
+76,Female,Sneezing,Sore Throat,Mild Fever,Respiratory Infection
+19,Female,Rapid Breathing,Chest Tightness,Wheezing,Asthma
+71,Female,Healthy,No Cough,Normal Breathing,Normal
+61,Male,Night Cough,Wheezing,Shortness of Breath,Asthma
+52,Male,High Fever,Fatigue,Difficulty Breathing,Pneumonia
+59,Male,Chest Pain,Difficulty Breathing,High Fever,Pneumonia
+14,Male,Persistent Cough,Difficulty Breathing,Chest Pain,Pneumonia
+58,Female,Persistent Cough,Difficulty Breathing,Chest Pain,Pneumonia
+10,Female,Night Cough,Shortness of Breath,Chest Tightness,Asthma
+39,Male,Fatigue,High Fever,Chest Pain,Pneumonia
+52,Female,Runny Nose,Sneezing,Mild Fever,Respiratory Infection
+11,Male,No Fever,Normal Breathing,Clear Lungs,Normal
+33,Male,Sore Throat,Mild Fever,Runny Nose,Respiratory Infection
+6,Male,Sore Throat,Runny Nose,Nasal Congestion,Respiratory Infection
+15,Male,Clear Lungs,No Cough,Normal Breathing,Normal
+60,Male,Normal Breathing,Healthy,No Cough,Normal
+72,Male,Persistent Cough,High Fever,Chest Pain,Pneumonia
+35,Female,Difficulty Breathing,High Fever,Persistent Cough,Pneumonia
+60,Female,Sore Throat,Runny Nose,Nasal Congestion,Respiratory Infection
+7,Male,Mild Fever,Sneezing,Runny Nose,Respiratory Infection
+5,Female,Sore Throat,Mild Fever,Sneezing,Respiratory Infection
+19,Female,Normal Breathing,Clear Lungs,No Fever,Normal
+72,Male,Wheezing,Night Cough,Chest Tightness,Asthma
+20,Male,Mild Fever,Nasal Congestion,Sneezing,Respiratory Infection
+55,Female,Chest Pain,Difficulty Breathing,Fatigue,Pneumonia
+79,Female,Night Cough,Shortness of Breath,Rapid Breathing,Asthma
+60,Male,Nasal Congestion,Runny Nose,Sneezing,Respiratory Infection
+47,Female,No Fever,Healthy,Clear Lungs,Normal
+34,Female,Rapid Breathing,Night Cough,Shortness of Breath,Asthma
+53,Female,Persistent Cough,Chest Pain,Difficulty Breathing,Pneumonia
+12,Male,Chest Tightness,Shortness of Breath,Wheezing,Asthma
+68,Female,Fatigue,Chest Pain,High Fever,Pneumonia
+62,Male,Sore Throat,Sneezing,Mild Fever,Respiratory Infection
+10,Female,Clear Lungs,No Cough,Healthy,Normal
+54,Female,Mild Fever,Sore Throat,Sneezing,Respiratory Infection
+6,Female,Night Cough,Chest Tightness,Wheezing,Asthma
+10,Male,Persistent Cough,Chest Pain,Fatigue,Pneumonia
+45,Male,Difficulty Breathing,Chest Pain,Fatigue,Pneumonia
+17,Female,Nasal Congestion,Runny Nose,Mild Fever,Respiratory Infection
+43,Male,Clear Lungs,Normal Breathing,No Cough,Normal
+20,Female,Difficulty Breathing,Chest Pain,Persistent Cough,Pneumonia
+6,Female,Runny Nose,Sneezing,Sore Throat,Respiratory Infection
+52,Male,Sneezing,Mild Fever,Runny Nose,Respiratory Infection
+50,Male,Fatigue,Persistent Cough,Chest Pain,Pneumonia
+33,Male,Runny Nose,Sneezing,Nasal Congestion,Respiratory Infection
+75,Female,High Fever,Difficulty Breathing,Chest Pain,Pneumonia
+35,Male,Runny Nose,Nasal Congestion,Mild Fever,Respiratory Infection
+39,Female,Chest Pain,High Fever,Fatigue,Pneumonia
+75,Female,Clear Lungs,Healthy,Normal Breathing,Normal
+62,Female,Difficulty Breathing,High Fever,Chest Pain,Pneumonia
+24,Female,Chest Pain,Difficulty Breathing,Fatigue,Pneumonia
+50,Male,Sore Throat,Sneezing,Nasal Congestion,Respiratory Infection
+14,Female,Shortness of Breath,Chest Tightness,Rapid Breathing,Asthma
+31,Female,Chest Tightness,Rapid Breathing,Night Cough,Asthma
+51,Male,Difficulty Breathing,Fatigue,Chest Pain,Pneumonia
+52,Female,Shortness of Breath,Chest Tightness,Wheezing,Asthma
+39,Male,Rapid Breathing,Wheezing,Chest Tightness,Asthma
+72,Female,Sneezing,Runny Nose,Sore Throat,Respiratory Infection
+63,Female,Mild Fever,Sneezing,Runny Nose,Respiratory Infection
+55,Male,Night Cough,Chest Tightness,Wheezing,Asthma
+18,Female,Shortness of Breath,Chest Tightness,Wheezing,Asthma
+29,Female,Healthy,No Fever,Normal Breathing,Normal
+15,Male,Runny Nose,Sneezing,Sore Throat,Respiratory Infection
+52,Male,Sore Throat,Mild Fever,Nasal Congestion,Respiratory Infection
+38,Female,Night Cough,Shortness of Breath,Wheezing,Asthma
+38,Female,Difficulty Breathing,Chest Pain,Persistent Cough,Pneumonia
+71,Male,Difficulty Breathing,High Fever,Chest Pain,Pneumonia
+51,Female,Clear Lungs,Normal Breathing,Healthy,Normal
+67,Male,Chest Tightness,Night Cough,Shortness of Breath,Asthma
+66,Female,No Cough,No Fever,Healthy,Normal
+80,Female,Mild Fever,Nasal Congestion,Runny Nose,Respiratory Infection
+11,Male,Normal Breathing,Clear Lungs,No Cough,Normal
+46,Male,Wheezing,Chest Tightness,Shortness of Breath,Asthma
+47,Female,Night Cough,Wheezing,Rapid Breathing,Asthma
+16,Female,Clear Lungs,No Fever,No Cough,Normal
+29,Female,Shortness of Breath,Wheezing,Chest Tightness,Asthma
+79,Female,Fatigue,Difficulty Breathing,Chest Pain,Pneumonia
+34,Female,Normal Breathing,No Fever,No Cough,Normal
+25,Male,Nasal Congestion,Runny Nose,Sore Throat,Respiratory Infection
+60,Female,Rapid Breathing,Night Cough,Shortness of Breath,Asthma
+9,Male,Chest Pain,Fatigue,Difficulty Breathing,Pneumonia
+15,Male,Wheezing,Shortness of Breath,Chest Tightness,Asthma
+73,Female,Runny Nose,Mild Fever,Sore Throat,Respiratory Infection
+71,Female,Chest Pain,Persistent Cough,Fatigue,Pneumonia
+13,Male,Chest Tightness,Shortness of Breath,Rapid Breathing,Asthma
+42,Male,Healthy,No Cough,No Fever,Normal
+65,Female,Fatigue,Persistent Cough,Chest Pain,Pneumonia
+54,Female,No Fever,Healthy,Normal Breathing,Normal
+6,Female,Shortness of Breath,Chest Tightness,Night Cough,Asthma
+28,Male,No Cough,No Fever,Healthy,Normal
+55,Male,Nasal Congestion,Sneezing,Runny Nose,Respiratory Infection
+70,Female,Persistent Cough,Difficulty Breathing,Fatigue,Pneumonia
+34,Female,Sneezing,Nasal Congestion,Sore Throat,Respiratory Infection
+53,Male,Shortness of Breath,Rapid Breathing,Wheezing,Asthma
+16,Male,Persistent Cough,Fatigue,High Fever,Pneumonia
+60,Male,Nasal Congestion,Runny Nose,Sore Throat,Respiratory Infection
+17,Male,High Fever,Fatigue,Chest Pain,Pneumonia
+23,Male,Nasal Congestion,Sore Throat,Sneezing,Respiratory Infection
+66,Female,Chest Pain,High Fever,Difficulty Breathing,Pneumonia
+56,Female,Rapid Breathing,Night Cough,Chest Tightness,Asthma
+28,Male,Fatigue,Chest Pain,Difficulty Breathing,Pneumonia
+70,Female,Healthy,Normal Breathing,No Cough,Normal
+63,Male,Runny Nose,Sore Throat,Mild Fever,Respiratory Infection
+5,Female,Chest Tightness,Shortness of Breath,Rapid Breathing,Asthma
+49,Female,Nasal Congestion,Mild Fever,Sore Throat,Respiratory Infection
+47,Male,Nasal Congestion,Mild Fever,Sneezing,Respiratory Infection
+35,Female,Chest Tightness,Rapid Breathing,Wheezing,Asthma
+45,Female,Clear Lungs,Healthy,No Cough,Normal
+35,Female,Normal Breathing,Healthy,No Fever,Normal
+57,Female,No Cough,Clear Lungs,Normal Breathing,Normal
+45,Male,No Cough,Clear Lungs,No Fever,Normal
+14,Male,Sneezing,Sore Throat,Nasal Congestion,Respiratory Infection
+6,Female,Mild Fever,Sneezing,Nasal Congestion,Respiratory Infection
+45,Male,Fatigue,High Fever,Difficulty Breathing,Pneumonia
+6,Female,No Cough,Healthy,Normal Breathing,Normal
+5,Male,No Cough,Clear Lungs,Healthy,Normal
+37,Male,Night Cough,Chest Tightness,Shortness of Breath,Asthma
+22,Female,Healthy,Clear Lungs,No Fever,Normal
+17,Male,Sneezing,Nasal Congestion,Mild Fever,Respiratory Infection
+51,Female,Healthy,No Fever,Clear Lungs,Normal
+54,Female,Sneezing,Sore Throat,Mild Fever,Respiratory Infection
+34,Male,Sneezing,Nasal Congestion,Sore Throat,Respiratory Infection
+73,Female,Runny Nose,Sore Throat,Mild Fever,Respiratory Infection
+29,Female,Chest Pain,High Fever,Difficulty Breathing,Pneumonia
+40,Male,Sore Throat,Sneezing,Runny Nose,Respiratory Infection
+34,Male,Runny Nose,Mild Fever,Sore Throat,Respiratory Infection
+54,Female,No Fever,No Cough,Normal Breathing,Normal
+10,Female,Shortness of Breath,Chest Tightness,Wheezing,Asthma
+20,Male,Healthy,No Fever,No Cough,Normal
+62,Female,Rapid Breathing,Night Cough,Wheezing,Asthma
+6,Male,Runny Nose,Sore Throat,Sneezing,Respiratory Infection
+6,Female,Mild Fever,Nasal Congestion,Runny Nose,Respiratory Infection
+46,Female,Difficulty Breathing,Persistent Cough,High Fever,Pneumonia
+73,Female,Nasal Congestion,Sneezing,Runny Nose,Respiratory Infection
+58,Male,Fatigue,Chest Pain,High Fever,Pneumonia
+13,Female,Nasal Congestion,Mild Fever,Sore Throat,Respiratory Infection
+9,Female,Normal Breathing,No Fever,No Cough,Normal
+29,Female,Chest Tightness,Rapid Breathing,Wheezing,Asthma
+44,Male,Wheezing,Rapid Breathing,Shortness of Breath,Asthma
+66,Male,No Cough,Clear Lungs,No Fever,Normal
+27,Female,Night Cough,Shortness of Breath,Rapid Breathing,Asthma
+60,Male,Sneezing,Nasal Congestion,Sore Throat,Respiratory Infection
+24,Female,Clear Lungs,No Cough,No Fever,Normal
+56,Female,High Fever,Chest Pain,Persistent Cough,Pneumonia
+44,Female,High Fever,Persistent Cough,Fatigue,Pneumonia
+14,Male,Healthy,Clear Lungs,No Cough,Normal
+18,Male,Clear Lungs,Healthy,No Cough,Normal
+16,Female,Healthy,Normal Breathing,No Cough,Normal
+15,Female,Nasal Congestion,Sore Throat,Sneezing,Respiratory Infection
+78,Male,Chest Pain,Difficulty Breathing,Fatigue,Pneumonia
+52,Female,Mild Fever,Nasal Congestion,Sneezing,Respiratory Infection
+8,Female,Persistent Cough,Fatigue,Chest Pain,Pneumonia
+45,Male,Chest Pain,Persistent Cough,High Fever,Pneumonia
+57,Female,Night Cough,Rapid Breathing,Wheezing,Asthma
+14,Male,Persistent Cough,Chest Pain,High Fever,Pneumonia
+63,Male,Normal Breathing,No Cough,Clear Lungs,Normal
+21,Female,Runny Nose,Nasal Congestion,Sneezing,Respiratory Infection
+80,Female,Fatigue,High Fever,Persistent Cough,Pneumonia
+44,Female,Difficulty Breathing,High Fever,Persistent Cough,Pneumonia
+13,Male,Healthy,Normal Breathing,Clear Lungs,Normal
+39,Male,Runny Nose,Sneezing,Sore Throat,Respiratory Infection
+17,Male,No Fever,Normal Breathing,Healthy,Normal
+70,Female,Mild Fever,Runny Nose,Nasal Congestion,Respiratory Infection
+54,Male,Shortness of Breath,Rapid Breathing,Wheezing,Asthma
+61,Female,Shortness of Breath,Night Cough,Chest Tightness,Asthma
+52,Female,Sore Throat,Mild Fever,Nasal Congestion,Respiratory Infection
+50,Female,Healthy,Clear Lungs,No Cough,Normal
+29,Male,Wheezing,Night Cough,Shortness of Breath,Asthma
+77,Male,Healthy,Clear Lungs,No Fever,Normal
+77,Male,Shortness of Breath,Night Cough,Wheezing,Asthma
+32,Male,Fatigue,Persistent Cough,Chest Pain,Pneumonia
+38,Female,Normal Breathing,No Cough,Healthy,Normal
+74,Female,Night Cough,Wheezing,Chest Tightness,Asthma
+30,Female,No Cough,Clear Lungs,Normal Breathing,Normal
+10,Male,Rapid Breathing,Shortness of Breath,Night Cough,Asthma
+23,Female,Mild Fever,Runny Nose,Sore Throat,Respiratory Infection
+46,Female,Nasal Congestion,Mild Fever,Sneezing,Respiratory Infection
+76,Female,Shortness of Breath,Wheezing,Rapid Breathing,Asthma
+51,Female,No Fever,Clear Lungs,Healthy,Normal
+69,Female,Persistent Cough,High Fever,Fatigue,Pneumonia
+18,Female,Chest Tightness,Shortness of Breath,Rapid Breathing,Asthma
+21,Female,Chest Pain,Difficulty Breathing,Persistent Cough,Pneumonia
+70,Female,No Fever,Clear Lungs,Healthy,Normal
+29,Female,No Fever,Clear Lungs,Normal Breathing,Normal
+25,Female,High Fever,Fatigue,Persistent Cough,Pneumonia
+42,Female,Runny Nose,Nasal Congestion,Mild Fever,Respiratory Infection
+74,Female,Normal Breathing,No Fever,No Cough,Normal
+22,Female,Mild Fever,Runny Nose,Sneezing,Respiratory Infection
+41,Female,Healthy,No Fever,Normal Breathing,Normal
+77,Male,Chest Pain,Persistent Cough,Fatigue,Pneumonia
+69,Female,Night Cough,Chest Tightness,Shortness of Breath,Asthma
+74,Male,Night Cough,Wheezing,Chest Tightness,Asthma
+57,Female,Persistent Cough,High Fever,Fatigue,Pneumonia
+57,Male,Mild Fever,Runny Nose,Nasal Congestion,Respiratory Infection
+66,Male,No Cough,Healthy,Clear Lungs,Normal
+50,Male,Chest Tightness,Rapid Breathing,Wheezing,Asthma
+65,Female,No Cough,No Fever,Clear Lungs,Normal
+68,Female,Sore Throat,Nasal Congestion,Runny Nose,Respiratory Infection
+56,Male,Mild Fever,Nasal Congestion,Sore Throat,Respiratory Infection
+65,Female,Difficulty Breathing,Persistent Cough,Fatigue,Pneumonia
+76,Male,No Cough,No Fever,Healthy,Normal
+8,Male,Night Cough,Rapid Breathing,Wheezing,Asthma
+10,Female,Night Cough,Shortness of Breath,Rapid Breathing,Asthma
+69,Female,Normal Breathing,Healthy,No Fever,Normal
+21,Male,Healthy,No Cough,Clear Lungs,Normal
+76,Female,Clear Lungs,Healthy,No Fever,Normal
+30,Male,Chest Pain,Persistent Cough,High Fever,Pneumonia
+48,Male,High Fever,Difficulty Breathing,Chest Pain,Pneumonia
+71,Female,Night Cough,Wheezing,Rapid Breathing,Asthma
+25,Female,Nasal Congestion,Sneezing,Sore Throat,Respiratory Infection
+71,Female,No Cough,Healthy,No Fever,Normal
+21,Female,Shortness of Breath,Chest Tightness,Night Cough,Asthma
+66,Female,Shortness of Breath,Night Cough,Chest Tightness,Asthma
+42,Female,Shortness of Breath,Chest Tightness,Rapid Breathing,Asthma
+37,Male,Shortness of Breath,Rapid Breathing,Chest Tightness,Asthma
+42,Female,High Fever,Difficulty Breathing,Persistent Cough,Pneumonia
+5,Female,No Fever,No Cough,Normal Breathing,Normal
+59,Male,Shortness of Breath,Night Cough,Wheezing,Asthma
+52,Female,Difficulty Breathing,Persistent Cough,Fatigue,Pneumonia
+10,Male,Chest Pain,Fatigue,Difficulty Breathing,Pneumonia
+79,Male,Clear Lungs,Normal Breathing,No Fever,Normal
+69,Female,Chest Tightness,Night Cough,Shortness of Breath,Asthma
+52,Male,Rapid Breathing,Night Cough,Chest Tightness,Asthma
+39,Male,Sneezing,Mild Fever,Sore Throat,Respiratory Infection
+6,Male,Rapid Breathing,Chest Tightness,Night Cough,Asthma
+48,Male,Shortness of Breath,Rapid Breathing,Wheezing,Asthma
+62,Male,Clear Lungs,Normal Breathing,Healthy,Normal
+43,Male,Rapid Breathing,Shortness of Breath,Wheezing,Asthma
+24,Female,Sneezing,Sore Throat,Nasal Congestion,Respiratory Infection
+58,Female,High Fever,Persistent Cough,Fatigue,Pneumonia
+52,Female,No Cough,Healthy,Clear Lungs,Normal
+69,Male,Chest Pain,High Fever,Persistent Cough,Pneumonia
+71,Female,Night Cough,Shortness of Breath,Wheezing,Asthma
+15,Male,Fatigue,High Fever,Persistent Cough,Pneumonia
+66,Male,Persistent Cough,Fatigue,Chest Pain,Pneumonia
+64,Female,Night Cough,Shortness of Breath,Wheezing,Asthma
+37,Female,Night Cough,Chest Tightness,Rapid Breathing,Asthma
+43,Female,Mild Fever,Runny Nose,Sore Throat,Respiratory Infection
+61,Female,Fatigue,High Fever,Persistent Cough,Pneumonia
+26,Female,Mild Fever,Runny Nose,Sneezing,Respiratory Infection
+59,Female,Wheezing,Rapid Breathing,Chest Tightness,Asthma
+11,Male,No Cough,Normal Breathing,Healthy,Normal
+75,Male,Chest Tightness,Wheezing,Night Cough,Asthma
+45,Female,Fatigue,High Fever,Chest Pain,Pneumonia
+14,Female,Sneezing,Mild Fever,Runny Nose,Respiratory Infection
+43,Male,Runny Nose,Sneezing,Sore Throat,Respiratory Infection
+7,Male,Sneezing,Nasal Congestion,Mild Fever,Respiratory Infection
+61,Female,Chest Tightness,Shortness of Breath,Wheezing,Asthma
+60,Male,Wheezing,Shortness of Breath,Night Cough,Asthma
+33,Female,Difficulty Breathing,Chest Pain,High Fever,Pneumonia
+50,Female,Difficulty Breathing,Chest Pain,Fatigue,Pneumonia
+10,Male,No Cough,Normal Breathing,Clear Lungs,Normal
+11,Male,Difficulty Breathing,High Fever,Fatigue,Pneumonia
+18,Female,Shortness of Breath,Chest Tightness,Wheezing,Asthma
+61,Female,Fatigue,Difficulty Breathing,High Fever,Pneumonia
+48,Female,Shortness of Breath,Chest Tightness,Rapid Breathing,Asthma
+13,Female,Chest Tightness,Night Cough,Wheezing,Asthma
+45,Female,Persistent Cough,High Fever,Difficulty Breathing,Pneumonia
+51,Female,Normal Breathing,Healthy,No Fever,Normal
+75,Male,High Fever,Difficulty Breathing,Fatigue,Pneumonia
+58,Female,Sore Throat,Sneezing,Nasal Congestion,Respiratory Infection
+75,Male,No Fever,Clear Lungs,Normal Breathing,Normal
+69,Female,Runny Nose,Mild Fever,Sore Throat,Respiratory Infection
+36,Female,Difficulty Breathing,Fatigue,High Fever,Pneumonia
+78,Male,Persistent Cough,Difficulty Breathing,High Fever,Pneumonia
+76,Female,Chest Tightness,Night Cough,Rapid Breathing,Asthma
+17,Male,Chest Tightness,Wheezing,Rapid Breathing,Asthma
+55,Female,Mild Fever,Nasal Congestion,Sneezing,Respiratory Infection
+39,Male,Sneezing,Nasal Congestion,Sore Throat,Respiratory Infection
+63,Male,Persistent Cough,High Fever,Chest Pain,Pneumonia
+36,Male,Shortness of Breath,Chest Tightness,Wheezing,Asthma
+23,Female,Difficulty Breathing,Persistent Cough,Chest Pain,Pneumonia
+59,Female,Wheezing,Night Cough,Shortness of Breath,Asthma
+6,Male,Clear Lungs,Healthy,No Fever,Normal
+66,Female,Chest Pain,High Fever,Difficulty Breathing,Pneumonia
+13,Male,Wheezing,Rapid Breathing,Night Cough,Asthma
+20,Male,Difficulty Breathing,Chest Pain,Fatigue,Pneumonia
+34,Male,Shortness of Breath,Chest Tightness,Wheezing,Asthma
+27,Female,Healthy,No Cough,Normal Breathing,Normal
+26,Male,Night Cough,Chest Tightness,Shortness of Breath,Asthma
+69,Female,Difficulty Breathing,Fatigue,High Fever,Pneumonia
+5,Male,No Fever,Healthy,Normal Breathing,Normal
+43,Female,Sneezing,Runny Nose,Sore Throat,Respiratory Infection
+42,Female,Fatigue,Persistent Cough,Chest Pain,Pneumonia
+49,Male,Clear Lungs,No Cough,Normal Breathing,Normal
+33,Male,Chest Tightness,Rapid Breathing,Wheezing,Asthma
+11,Female,Healthy,No Fever,No Cough,Normal
+26,Female,Runny Nose,Nasal Congestion,Sneezing,Respiratory Infection
+12,Male,Clear Lungs,No Fever,No Cough,Normal
+14,Female,Shortness of Breath,Night Cough,Chest Tightness,Asthma
+47,Male,Clear Lungs,Healthy,No Fever,Normal
+61,Male,Rapid Breathing,Night Cough,Chest Tightness,Asthma
+29,Female,Difficulty Breathing,Persistent Cough,High Fever,Pneumonia
+41,Male,Runny Nose,Sore Throat,Sneezing,Respiratory Infection
+67,Male,Sore Throat,Mild Fever,Nasal Congestion,Respiratory Infection
+18,Female,Normal Breathing,No Fever,No Cough,Normal
+36,Female,Difficulty Breathing,Fatigue,High Fever,Pneumonia
+26,Male,Shortness of Breath,Night Cough,Chest Tightness,Asthma
+16,Female,Nasal Congestion,Runny Nose,Sneezing,Respiratory Infection
+36,Female,Nasal Congestion,Sore Throat,Runny Nose,Respiratory Infection
+21,Female,No Fever,Normal Breathing,Healthy,Normal
+76,Female,Healthy,No Fever,No Cough,Normal
+59,Male,Runny Nose,Nasal Congestion,Sneezing,Respiratory Infection
+60,Male,High Fever,Difficulty Breathing,Persistent Cough,Pneumonia
+75,Female,Night Cough,Chest Tightness,Shortness of Breath,Asthma
+31,Female,No Fever,Normal Breathing,No Cough,Normal
+28,Male,Healthy,No Fever,No Cough,Normal
+57,Male,No Cough,Healthy,Normal Breathing,Normal
+13,Male,Wheezing,Rapid Breathing,Night Cough,Asthma
+80,Male,No Cough,Clear Lungs,No Fever,Normal
+13,Male,Sore Throat,Sneezing,Mild Fever,Respiratory Infection
+19,Female,Mild Fever,Runny Nose,Sneezing,Respiratory Infection
+36,Female,Runny Nose,Sneezing,Sore Throat,Respiratory Infection
+15,Male,Nasal Congestion,Mild Fever,Runny Nose,Respiratory Infection
+16,Male,Healthy,Normal Breathing,No Cough,Normal
+77,Female,Clear Lungs,Healthy,No Fever,Normal
+11,Male,Nasal Congestion,Sneezing,Mild Fever,Respiratory Infection
+30,Male,Clear Lungs,No Cough,Healthy,Normal
+57,Female,Wheezing,Night Cough,Chest Tightness,Asthma
+35,Female,Fatigue,Chest Pain,Difficulty Breathing,Pneumonia
+48,Male,Chest Tightness,Shortness of Breath,Wheezing,Asthma
+65,Male,Difficulty Breathing,Persistent Cough,Fatigue,Pneumonia
+65,Female,Rapid Breathing,Shortness of Breath,Chest Tightness,Asthma
+77,Male,Nasal Congestion,Sneezing,Runny Nose,Respiratory Infection
+9,Female,Chest Tightness,Wheezing,Night Cough,Asthma
+70,Male,Clear Lungs,Healthy,Normal Breathing,Normal
+62,Male,Chest Tightness,Night Cough,Rapid Breathing,Asthma
+29,Male,Sore Throat,Runny Nose,Nasal Congestion,Respiratory Infection
+46,Female,Difficulty Breathing,Persistent Cough,Chest Pain,Pneumonia
+7,Male,High Fever,Fatigue,Chest Pain,Pneumonia
+51,Male,No Cough,Normal Breathing,Healthy,Normal
+75,Female,High Fever,Chest Pain,Difficulty Breathing,Pneumonia
+8,Male,High Fever,Persistent Cough,Chest Pain,Pneumonia
+70,Male,Sneezing,Sore Throat,Mild Fever,Respiratory Infection
+7,Male,Fatigue,Chest Pain,Persistent Cough,Pneumonia
+52,Female,Chest Tightness,Wheezing,Shortness of Breath,Asthma
+19,Male,Runny Nose,Sore Throat,Nasal Congestion,Respiratory Infection
+40,Male,Mild Fever,Sneezing,Nasal Congestion,Respiratory Infection
+75,Male,Wheezing,Rapid Breathing,Chest Tightness,Asthma
+65,Female,Sore Throat,Runny Nose,Sneezing,Respiratory Infection
+76,Female,Normal Breathing,No Fever,No Cough,Normal
+54,Male,No Fever,Normal Breathing,No Cough,Normal
+7,Male,Healthy,Clear Lungs,No Cough,Normal
+11,Male,No Fever,Clear Lungs,Healthy,Normal
+15,Female,Mild Fever,Sore Throat,Nasal Congestion,Respiratory Infection
+72,Female,Persistent Cough,Difficulty Breathing,Chest Pain,Pneumonia
+51,Female,Persistent Cough,Fatigue,High Fever,Pneumonia
+27,Female,No Fever,Healthy,Clear Lungs,Normal
+20,Female,No Fever,Normal Breathing,Healthy,Normal
+13,Male,No Cough,No Fever,Normal Breathing,Normal
+50,Female,Fatigue,High Fever,Chest Pain,Pneumonia
+8,Male,Mild Fever,Nasal Congestion,Runny Nose,Respiratory Infection
+66,Female,Persistent Cough,Fatigue,Difficulty Breathing,Pneumonia
+11,Female,Sore Throat,Sneezing,Mild Fever,Respiratory Infection
+29,Male,Rapid Breathing,Shortness of Breath,Night Cough,Asthma
+67,Male,Shortness of Breath,Night Cough,Chest Tightness,Asthma
+45,Male,Shortness of Breath,Chest Tightness,Rapid Breathing,Asthma
+20,Female,Difficulty Breathing,Chest Pain,Fatigue,Pneumonia
+76,Female,Persistent Cough,Fatigue,High Fever,Pneumonia
+63,Female,Nasal Congestion,Mild Fever,Sore Throat,Respiratory Infection
+59,Male,Nasal Congestion,Mild Fever,Runny Nose,Respiratory Infection
+57,Female,Shortness of Breath,Wheezing,Rapid Breathing,Asthma
+50,Male,Nasal Congestion,Runny Nose,Sneezing,Respiratory Infection
+13,Female,Sore Throat,Mild Fever,Sneezing,Respiratory Infection
+61,Female,No Fever,No Cough,Healthy,Normal
+36,Female,Night Cough,Rapid Breathing,Shortness of Breath,Asthma
+52,Female,Mild Fever,Sneezing,Nasal Congestion,Respiratory Infection
+71,Female,No Fever,Clear Lungs,Healthy,Normal
+74,Male,Sore Throat,Mild Fever,Sneezing,Respiratory Infection
+24,Male,No Fever,Clear Lungs,Normal Breathing,Normal
+42,Male,Nasal Congestion,Runny Nose,Mild Fever,Respiratory Infection
+6,Male,Clear Lungs,No Fever,Healthy,Normal
+19,Female,No Cough,No Fever,Clear Lungs,Normal
+9,Female,Clear Lungs,Healthy,No Fever,Normal
+65,Female,Rapid Breathing,Night Cough,Wheezing,Asthma
+5,Male,Night Cough,Shortness of Breath,Wheezing,Asthma
+75,Male,Mild Fever,Sore Throat,Sneezing,Respiratory Infection
+76,Female,Shortness of Breath,Night Cough,Wheezing,Asthma
+30,Female,Wheezing,Night Cough,Rapid Breathing,Asthma
+30,Male,Difficulty Breathing,Fatigue,High Fever,Pneumonia
+73,Female,Clear Lungs,No Fever,Healthy,Normal
+29,Male,Shortness of Breath,Night Cough,Rapid Breathing,Asthma
+8,Female,Nasal Congestion,Sore Throat,Mild Fever,Respiratory Infection
+25,Female,Healthy,Normal Breathing,No Fever,Normal
+45,Female,Sneezing,Sore Throat,Nasal Congestion,Respiratory Infection
+21,Female,Shortness of Breath,Chest Tightness,Rapid Breathing,Asthma
+23,Female,Fatigue,Persistent Cough,Difficulty Breathing,Pneumonia
+41,Female,Difficulty Breathing,High Fever,Persistent Cough,Pneumonia
+75,Female,Clear Lungs,No Fever,No Cough,Normal
+66,Female,Normal Breathing,No Cough,No Fever,Normal
+49,Male,Rapid Breathing,Chest Tightness,Wheezing,Asthma
+78,Male,Clear Lungs,Healthy,No Fever,Normal
+55,Female,Mild Fever,Nasal Congestion,Runny Nose,Respiratory Infection
+72,Female,No Fever,Normal Breathing,Clear Lungs,Normal
+79,Female,Normal Breathing,Clear Lungs,No Fever,Normal
+30,Male,No Cough,Normal Breathing,Healthy,Normal
+39,Male,Chest Tightness,Rapid Breathing,Wheezing,Asthma
+24,Male,Wheezing,Rapid Breathing,Chest Tightness,Asthma
+27,Male,Nasal Congestion,Runny Nose,Sore Throat,Respiratory Infection
+24,Female,Rapid Breathing,Night Cough,Chest Tightness,Asthma
+65,Male,Nasal Congestion,Mild Fever,Sneezing,Respiratory Infection
+60,Female,Healthy,Clear Lungs,No Fever,Normal
+44,Female,Chest Pain,Persistent Cough,Fatigue,Pneumonia
+54,Female,Sore Throat,Runny Nose,Sneezing,Respiratory Infection
+8,Male,Sore Throat,Runny Nose,Mild Fever,Respiratory Infection
+56,Female,Sore Throat,Runny Nose,Sneezing,Respiratory Infection
+44,Female,Runny Nose,Sore Throat,Mild Fever,Respiratory Infection
+48,Female,Fatigue,Chest Pain,Difficulty Breathing,Pneumonia
+12,Male,Sore Throat,Runny Nose,Nasal Congestion,Respiratory Infection
+5,Male,Nasal Congestion,Sneezing,Mild Fever,Respiratory Infection
+33,Male,Runny Nose,Mild Fever,Nasal Congestion,Respiratory Infection
+63,Male,Wheezing,Shortness of Breath,Rapid Breathing,Asthma
+29,Female,No Fever,Healthy,Clear Lungs,Normal
+9,Male,Chest Pain,High Fever,Difficulty Breathing,Pneumonia
+80,Male,No Cough,Clear Lungs,Normal Breathing,Normal
+54,Female,Night Cough,Chest Tightness,Wheezing,Asthma
+71,Female,Clear Lungs,No Fever,Normal Breathing,Normal
+42,Female,Shortness of Breath,Night Cough,Chest Tightness,Asthma
+40,Female,Chest Tightness,Shortness of Breath,Wheezing,Asthma
+36,Male,Night Cough,Chest Tightness,Wheezing,Asthma
+67,Female,Shortness of Breath,Chest Tightness,Night Cough,Asthma
+77,Male,Healthy,No Cough,No Fever,Normal
+40,Female,No Cough,Healthy,No Fever,Normal
+54,Female,Night Cough,Shortness of Breath,Chest Tightness,Asthma
+52,Male,Healthy,Normal Breathing,Clear Lungs,Normal
+65,Male,High Fever,Difficulty Breathing,Persistent Cough,Pneumonia
+64,Male,Mild Fever,Sore Throat,Runny Nose,Respiratory Infection
+22,Male,Fatigue,High Fever,Chest Pain,Pneumonia
+70,Male,Healthy,Normal Breathing,No Fever,Normal
+16,Female,Chest Pain,Difficulty Breathing,High Fever,Pneumonia
+70,Female,Clear Lungs,Healthy,No Fever,Normal
+11,Male,Clear Lungs,No Fever,Healthy,Normal
+29,Female,Runny Nose,Nasal Congestion,Mild Fever,Respiratory Infection
+50,Female,Nasal Congestion,Mild Fever,Runny Nose,Respiratory Infection
+41,Female,No Cough,Normal Breathing,Healthy,Normal
+67,Female,Nasal Congestion,Sore Throat,Mild Fever,Respiratory Infection
+45,Male,Difficulty Breathing,Persistent Cough,Fatigue,Pneumonia
+32,Male,Nasal Congestion,Runny Nose,Sneezing,Respiratory Infection
+12,Male,Sore Throat,Sneezing,Nasal Congestion,Respiratory Infection
+72,Male,Rapid Breathing,Chest Tightness,Night Cough,Asthma
+15,Female,Clear Lungs,Normal Breathing,No Cough,Normal
+79,Female,Shortness of Breath,Chest Tightness,Night Cough,Asthma
+52,Male,Runny Nose,Nasal Congestion,Mild Fever,Respiratory Infection
+78,Female,High Fever,Difficulty Breathing,Chest Pain,Pneumonia
+44,Female,Runny Nose,Nasal Congestion,Sore Throat,Respiratory Infection
+44,Female,No Cough,Clear Lungs,Healthy,Normal
+57,Male,Shortness of Breath,Night Cough,Wheezing,Asthma
+51,Male,Chest Pain,Difficulty Breathing,Persistent Cough,Pneumonia
+54,Male,Runny Nose,Sneezing,Sore Throat,Respiratory Infection
+34,Female,No Fever,Normal Breathing,Clear Lungs,Normal
+72,Female,Healthy,Clear Lungs,Normal Breathing,Normal
+43,Female,Difficulty Breathing,Persistent Cough,Fatigue,Pneumonia
+63,Male,Persistent Cough,Fatigue,Difficulty Breathing,Pneumonia
+45,Female,Sneezing,Nasal Congestion,Mild Fever,Respiratory Infection
+49,Male,Healthy,No Cough,Clear Lungs,Normal
+67,Male,Persistent Cough,Difficulty Breathing,Fatigue,Pneumonia
+10,Female,Difficulty Breathing,High Fever,Fatigue,Pneumonia
+7,Male,Healthy,Clear Lungs,Normal Breathing,Normal
+48,Female,Sore Throat,Sneezing,Mild Fever,Respiratory Infection
+80,Male,No Cough,Clear Lungs,Healthy,Normal
+20,Female,Chest Tightness,Rapid Breathing,Shortness of Breath,Asthma
+40,Male,Sore Throat,Sneezing,Runny Nose,Respiratory Infection
+38,Male,Mild Fever,Runny Nose,Nasal Congestion,Respiratory Infection
+49,Male,Difficulty Breathing,Persistent Cough,Fatigue,Pneumonia
+17,Female,Difficulty Breathing,Fatigue,Persistent Cough,Pneumonia
+18,Female,High Fever,Chest Pain,Difficulty Breathing,Pneumonia
+62,Male,High Fever,Persistent Cough,Difficulty Breathing,Pneumonia
+25,Female,No Fever,Clear Lungs,Normal Breathing,Normal
+21,Female,Shortness of Breath,Night Cough,Wheezing,Asthma
+55,Female,Sore Throat,Sneezing,Runny Nose,Respiratory Infection
+55,Male,Night Cough,Chest Tightness,Shortness of Breath,Asthma
+32,Female,Mild Fever,Runny Nose,Nasal Congestion,Respiratory Infection
+15,Male,Healthy,No Fever,No Cough,Normal
+19,Female,Mild Fever,Nasal Congestion,Sneezing,Respiratory Infection
+51,Female,Fatigue,Chest Pain,High Fever,Pneumonia
+38,Female,Sneezing,Runny Nose,Sore Throat,Respiratory Infection
+37,Male,Healthy,Clear Lungs,Normal Breathing,Normal
+23,Male,Runny Nose,Nasal Congestion,Mild Fever,Respiratory Infection
+36,Male,Fatigue,Difficulty Breathing,Chest Pain,Pneumonia
+21,Female,Night Cough,Shortness of Breath,Chest Tightness,Asthma
+61,Male,Normal Breathing,No Fever,Clear Lungs,Normal
+57,Female,Wheezing,Shortness of Breath,Chest Tightness,Asthma
+54,Male,Runny Nose,Sneezing,Mild Fever,Respiratory Infection
+26,Male,High Fever,Persistent Cough,Fatigue,Pneumonia
+68,Female,High Fever,Difficulty Breathing,Persistent Cough,Pneumonia
+11,Female,Nasal Congestion,Mild Fever,Runny Nose,Respiratory Infection
+68,Male,Shortness of Breath,Rapid Breathing,Chest Tightness,Asthma
+17,Female,Wheezing,Night Cough,Rapid Breathing,Asthma
+46,Female,Normal Breathing,No Fever,Healthy,Normal
+13,Male,High Fever,Fatigue,Persistent Cough,Pneumonia
+25,Male,No Cough,Normal Breathing,No Fever,Normal
+57,Female,Healthy,Clear Lungs,No Cough,Normal
+18,Male,Mild Fever,Sore Throat,Nasal Congestion,Respiratory Infection
+63,Male,High Fever,Persistent Cough,Fatigue,Pneumonia
+78,Female,Normal Breathing,Clear Lungs,No Cough,Normal
+26,Male,High Fever,Difficulty Breathing,Chest Pain,Pneumonia
+75,Male,Clear Lungs,No Cough,No Fever,Normal
+12,Male,Rapid Breathing,Night Cough,Shortness of Breath,Asthma
+60,Female,Sore Throat,Mild Fever,Sneezing,Respiratory Infection
+21,Male,Sore Throat,Mild Fever,Runny Nose,Respiratory Infection
+15,Male,Shortness of Breath,Chest Tightness,Night Cough,Asthma
+16,Female,Sore Throat,Nasal Congestion,Runny Nose,Respiratory Infection
+71,Female,Fatigue,Difficulty Breathing,Chest Pain,Pneumonia
+40,Male,Normal Breathing,Clear Lungs,Healthy,Normal
+73,Male,Rapid Breathing,Wheezing,Night Cough,Asthma
+66,Male,Clear Lungs,Normal Breathing,No Cough,Normal
+56,Female,Chest Pain,High Fever,Fatigue,Pneumonia
+10,Female,Sore Throat,Mild Fever,Sneezing,Respiratory Infection
+11,Male,Sore Throat,Nasal Congestion,Runny Nose,Respiratory Infection
+61,Female,Night Cough,Chest Tightness,Shortness of Breath,Asthma
+14,Male,Runny Nose,Sneezing,Mild Fever,Respiratory Infection
+80,Male,Wheezing,Shortness of Breath,Night Cough,Asthma
+78,Female,No Fever,Clear Lungs,Healthy,Normal
+39,Male,Clear Lungs,Healthy,Normal Breathing,Normal
+31,Female,Healthy,No Cough,Normal Breathing,Normal
+14,Male,Shortness of Breath,Rapid Breathing,Chest Tightness,Asthma
+6,Female,Mild Fever,Runny Nose,Sneezing,Respiratory Infection
+57,Female,Healthy,Clear Lungs,No Cough,Normal
+74,Male,Persistent Cough,Fatigue,High Fever,Pneumonia
+31,Male,Sore Throat,Runny Nose,Nasal Congestion,Respiratory Infection
+21,Male,Sore Throat,Nasal Congestion,Runny Nose,Respiratory Infection
+62,Male,No Cough,Clear Lungs,No Fever,Normal
+27,Female,No Cough,Normal Breathing,Healthy,Normal
+17,Female,Night Cough,Rapid Breathing,Shortness of Breath,Asthma
+12,Male,Difficulty Breathing,Fatigue,Chest Pain,Pneumonia
+19,Male,Shortness of Breath,Rapid Breathing,Night Cough,Asthma
+16,Male,Runny Nose,Sore Throat,Nasal Congestion,Respiratory Infection
+37,Male,Persistent Cough,High Fever,Fatigue,Pneumonia
+47,Female,Night Cough,Chest Tightness,Shortness of Breath,Asthma
+15,Female,Healthy,Normal Breathing,No Cough,Normal
+74,Female,Persistent Cough,High Fever,Difficulty Breathing,Pneumonia
+79,Female,High Fever,Persistent Cough,Chest Pain,Pneumonia
+18,Male,Sore Throat,Mild Fever,Sneezing,Respiratory Infection
+66,Female,Night Cough,Wheezing,Rapid Breathing,Asthma
+59,Male,Night Cough,Wheezing,Rapid Breathing,Asthma
+22,Male,Chest Tightness,Night Cough,Wheezing,Asthma
+80,Male,Runny Nose,Mild Fever,Nasal Congestion,Respiratory Infection
+45,Male,Rapid Breathing,Wheezing,Chest Tightness,Asthma
+73,Male,Persistent Cough,Chest Pain,Fatigue,Pneumonia
+55,Female,No Cough,Healthy,Clear Lungs,Normal
+25,Male,Difficulty Breathing,Fatigue,High Fever,Pneumonia
+16,Male,Sore Throat,Sneezing,Runny Nose,Respiratory Infection
+40,Female,High Fever,Difficulty Breathing,Chest Pain,Pneumonia
+23,Female,Chest Pain,High Fever,Fatigue,Pneumonia
+30,Male,Chest Tightness,Night Cough,Shortness of Breath,Asthma
+10,Male,No Fever,Normal Breathing,Healthy,Normal
+41,Male,Mild Fever,Sore Throat,Nasal Congestion,Respiratory Infection
+20,Female,No Cough,Healthy,No Fever,Normal
+17,Male,Night Cough,Wheezing,Chest Tightness,Asthma
+44,Female,Sore Throat,Sneezing,Nasal Congestion,Respiratory Infection
+22,Female,Runny Nose,Mild Fever,Sneezing,Respiratory Infection
+33,Male,Night Cough,Wheezing,Chest Tightness,Asthma
+7,Female,Fatigue,Chest Pain,Persistent Cough,Pneumonia
+56,Female,No Cough,Clear Lungs,Healthy,Normal
+33,Male,Runny Nose,Nasal Congestion,Sneezing,Respiratory Infection
+7,Female,Difficulty Breathing,Chest Pain,Persistent Cough,Pneumonia
+67,Female,Fatigue,Chest Pain,Persistent Cough,Pneumonia
+21,Male,Rapid Breathing,Chest Tightness,Night Cough,Asthma
+27,Female,Sore Throat,Sneezing,Nasal Congestion,Respiratory Infection
+43,Male,Nasal Congestion,Mild Fever,Runny Nose,Respiratory Infection
+8,Male,Shortness of Breath,Rapid Breathing,Wheezing,Asthma
+66,Female,Normal Breathing,No Fever,No Cough,Normal
+45,Male,Normal Breathing,No Cough,No Fever,Normal
+15,Female,Persistent Cough,Chest Pain,Fatigue,Pneumonia
+6,Female,Night Cough,Chest Tightness,Rapid Breathing,Asthma
+44,Female,Shortness of Breath,Rapid Breathing,Chest Tightness,Asthma
+73,Female,No Fever,Healthy,Clear Lungs,Normal
+59,Male,High Fever,Fatigue,Persistent Cough,Pneumonia
+49,Male,Difficulty Breathing,Persistent Cough,Chest Pain,Pneumonia
+66,Female,Clear Lungs,No Cough,Normal Breathing,Normal
+9,Male,Difficulty Breathing,High Fever,Fatigue,Pneumonia
+18,Male,Chest Pain,Difficulty Breathing,Persistent Cough,Pneumonia
+61,Female,Sore Throat,Sneezing,Nasal Congestion,Respiratory Infection
+68,Male,No Fever,Normal Breathing,No Cough,Normal
+79,Male,Shortness of Breath,Chest Tightness,Wheezing,Asthma
+51,Male,Night Cough,Chest Tightness,Shortness of Breath,Asthma
+54,Female,Chest Pain,Difficulty Breathing,High Fever,Pneumonia
+42,Male,Healthy,Normal Breathing,No Fever,Normal
+40,Male,Difficulty Breathing,Chest Pain,High Fever,Pneumonia
+41,Male,Rapid Breathing,Wheezing,Night Cough,Asthma
+48,Female,Wheezing,Chest Tightness,Shortness of Breath,Asthma
+23,Male,High Fever,Persistent Cough,Chest Pain,Pneumonia
+27,Female,Sneezing,Nasal Congestion,Mild Fever,Respiratory Infection
+21,Male,Chest Tightness,Shortness of Breath,Night Cough,Asthma
+72,Female,High Fever,Fatigue,Difficulty Breathing,Pneumonia
+51,Female,Healthy,Normal Breathing,Clear Lungs,Normal
+34,Female,Persistent Cough,Fatigue,Chest Pain,Pneumonia
+15,Female,Rapid Breathing,Wheezing,Chest Tightness,Asthma
+41,Female,Wheezing,Rapid Breathing,Chest Tightness,Asthma
+16,Male,Healthy,Clear Lungs,No Cough,Normal
+70,Female,Chest Tightness,Rapid Breathing,Night Cough,Asthma
+47,Female,Chest Pain,High Fever,Difficulty Breathing,Pneumonia
+21,Male,Night Cough,Wheezing,Chest Tightness,Asthma
+35,Male,Clear Lungs,No Cough,Healthy,Normal
+17,Male,Mild Fever,Runny Nose,Nasal Congestion,Respiratory Infection
+31,Female,Persistent Cough,Difficulty Breathing,Fatigue,Pneumonia
+36,Male,High Fever,Chest Pain,Persistent Cough,Pneumonia
+79,Female,Nasal Congestion,Sore Throat,Sneezing,Respiratory Infection
+42,Female,No Fever,Clear Lungs,No Cough,Normal
+45,Male,Normal Breathing,Clear Lungs,Healthy,Normal
+9,Female,Chest Pain,Persistent Cough,High Fever,Pneumonia
+70,Female,Difficulty Breathing,Fatigue,Persistent Cough,Pneumonia
+61,Male,Fatigue,Chest Pain,Persistent Cough,Pneumonia
+13,Female,Rapid Breathing,Shortness of Breath,Chest Tightness,Asthma
+74,Female,Mild Fever,Nasal Congestion,Sneezing,Respiratory Infection
+76,Male,Night Cough,Rapid Breathing,Shortness of Breath,Asthma
+33,Female,Rapid Breathing,Night Cough,Chest Tightness,Asthma
+41,Male,Night Cough,Wheezing,Shortness of Breath,Asthma
+58,Male,Wheezing,Shortness of Breath,Chest Tightness,Asthma
+38,Male,Clear Lungs,Normal Breathing,No Fever,Normal
+27,Male,Nasal Congestion,Sore Throat,Sneezing,Respiratory Infection
+32,Male,Fatigue,Chest Pain,High Fever,Pneumonia
+40,Female,Clear Lungs,No Fever,No Cough,Normal
+48,Male,Chest Tightness,Wheezing,Rapid Breathing,Asthma
+24,Male,Normal Breathing,No Fever,Clear Lungs,Normal
+9,Male,Chest Pain,Fatigue,Persistent Cough,Pneumonia
+40,Female,Chest Tightness,Shortness of Breath,Rapid Breathing,Asthma
+53,Female,Chest Tightness,Night Cough,Rapid Breathing,Asthma
+25,Female,Wheezing,Rapid Breathing,Night Cough,Asthma
+48,Male,No Fever,Normal Breathing,Healthy,Normal
+38,Female,Night Cough,Wheezing,Shortness of Breath,Asthma
+80,Female,Night Cough,Rapid Breathing,Shortness of Breath,Asthma
+76,Female,Chest Tightness,Shortness of Breath,Wheezing,Asthma
+15,Female,Difficulty Breathing,Fatigue,High Fever,Pneumonia
+66,Male,No Fever,Clear Lungs,Healthy,Normal
+63,Male,No Fever,No Cough,Clear Lungs,Normal
+74,Male,Sneezing,Nasal Congestion,Runny Nose,Respiratory Infection
+62,Male,Mild Fever,Sore Throat,Runny Nose,Respiratory Infection
+26,Female,Clear Lungs,Healthy,Normal Breathing,Normal
+43,Male,Difficulty Breathing,Chest Pain,High Fever,Pneumonia
+69,Male,Runny Nose,Sneezing,Mild Fever,Respiratory Infection
+53,Female,High Fever,Chest Pain,Fatigue,Pneumonia
+43,Male,Runny Nose,Sore Throat,Sneezing,Respiratory Infection
+54,Female,Night Cough,Rapid Breathing,Wheezing,Asthma
+76,Female,High Fever,Chest Pain,Difficulty Breathing,Pneumonia
+36,Female,Healthy,Clear Lungs,Normal Breathing,Normal
+43,Female,Wheezing,Chest Tightness,Night Cough,Asthma
+21,Female,Wheezing,Rapid Breathing,Shortness of Breath,Asthma
+70,Male,Healthy,No Cough,No Fever,Normal
+72,Female,Wheezing,Night Cough,Rapid Breathing,Asthma
+39,Female,Healthy,No Fever,Normal Breathing,Normal
+58,Female,Difficulty Breathing,Fatigue,Chest Pain,Pneumonia
+22,Female,No Fever,No Cough,Normal Breathing,Normal
+65,Male,Sore Throat,Nasal Congestion,Mild Fever,Respiratory Infection
+79,Female,No Fever,Clear Lungs,Healthy,Normal
+40,Female,Sneezing,Sore Throat,Runny Nose,Respiratory Infection
+24,Male,Chest Pain,Fatigue,Difficulty Breathing,Pneumonia
+60,Female,Fatigue,High Fever,Difficulty Breathing,Pneumonia
+8,Female,Sneezing,Nasal Congestion,Mild Fever,Respiratory Infection
+52,Female,Mild Fever,Nasal Congestion,Runny Nose,Respiratory Infection
+46,Female,Healthy,Normal Breathing,Clear Lungs,Normal
+78,Male,Sore Throat,Sneezing,Runny Nose,Respiratory Infection
+68,Male,Normal Breathing,Clear Lungs,No Cough,Normal
+75,Female,No Cough,Clear Lungs,Normal Breathing,Normal
+53,Female,Nasal Congestion,Sore Throat,Mild Fever,Respiratory Infection
+69,Female,Night Cough,Chest Tightness,Shortness of Breath,Asthma
+44,Male,Runny Nose,Nasal Congestion,Sneezing,Respiratory Infection
+36,Male,Persistent Cough,Fatigue,Difficulty Breathing,Pneumonia
+40,Male,Shortness of Breath,Night Cough,Rapid Breathing,Asthma
+31,Female,Difficulty Breathing,High Fever,Fatigue,Pneumonia
+63,Female,Shortness of Breath,Rapid Breathing,Night Cough,Asthma
+60,Male,Chest Pain,High Fever,Fatigue,Pneumonia
+45,Male,No Cough,No Fever,Normal Breathing,Normal
+79,Female,Chest Pain,High Fever,Persistent Cough,Pneumonia
+11,Male,Runny Nose,Mild Fever,Sore Throat,Respiratory Infection
+9,Male,No Cough,Clear Lungs,No Fever,Normal
+16,Male,Sneezing,Nasal Congestion,Mild Fever,Respiratory Infection
+16,Male,Chest Tightness,Rapid Breathing,Wheezing,Asthma
+18,Female,Persistent Cough,Fatigue,High Fever,Pneumonia
+31,Female,Persistent Cough,Fatigue,Chest Pain,Pneumonia
+44,Male,Difficulty Breathing,Fatigue,Chest Pain,Pneumonia
+59,Male,Mild Fever,Sneezing,Nasal Congestion,Respiratory Infection
+26,Male,Clear Lungs,Healthy,No Cough,Normal
+41,Male,Persistent Cough,Chest Pain,Difficulty Breathing,Pneumonia
+24,Male,Wheezing,Shortness of Breath,Night Cough,Asthma
+78,Female,Persistent Cough,Difficulty Breathing,Fatigue,Pneumonia
+73,Male,Sore Throat,Nasal Congestion,Sneezing,Respiratory Infection
+50,Female,Wheezing,Night Cough,Rapid Breathing,Asthma
+11,Male,No Cough,No Fever,Healthy,Normal
+6,Female,Wheezing,Rapid Breathing,Night Cough,Asthma
+75,Male,Normal Breathing,Clear Lungs,Healthy,Normal
+76,Female,Persistent Cough,High Fever,Difficulty Breathing,Pneumonia
+33,Male,No Cough,Normal Breathing,Clear Lungs,Normal
+32,Male,Difficulty Breathing,Fatigue,Chest Pain,Pneumonia
+71,Female,No Cough,Normal Breathing,No Fever,Normal
+42,Female,Night Cough,Wheezing,Chest Tightness,Asthma
+61,Male,Difficulty Breathing,Persistent Cough,Chest Pain,Pneumonia
+34,Male,Fatigue,Persistent Cough,Chest Pain,Pneumonia
+21,Male,Healthy,No Fever,Clear Lungs,Normal
+31,Male,Sore Throat,Sneezing,Runny Nose,Respiratory Infection
+55,Female,No Cough,No Fever,Clear Lungs,Normal
+17,Male,Sneezing,Mild Fever,Runny Nose,Respiratory Infection
+63,Male,Rapid Breathing,Chest Tightness,Wheezing,Asthma
+27,Male,Sore Throat,Mild Fever,Sneezing,Respiratory Infection
+45,Female,Chest Pain,Persistent Cough,Fatigue,Pneumonia
+61,Female,High Fever,Persistent Cough,Chest Pain,Pneumonia
+19,Male,Chest Pain,Difficulty Breathing,High Fever,Pneumonia
+42,Male,Night Cough,Wheezing,Rapid Breathing,Asthma
+25,Male,No Cough,Normal Breathing,Healthy,Normal
+67,Female,No Cough,Healthy,Clear Lungs,Normal
+11,Male,Normal Breathing,No Cough,Clear Lungs,Normal
+66,Female,Runny Nose,Nasal Congestion,Sneezing,Respiratory Infection
+40,Male,Wheezing,Rapid Breathing,Chest Tightness,Asthma
+13,Male,Rapid Breathing,Shortness of Breath,Chest Tightness,Asthma
+41,Female,Chest Pain,Fatigue,Persistent Cough,Pneumonia
+65,Female,Wheezing,Night Cough,Shortness of Breath,Asthma
+19,Female,Chest Pain,Persistent Cough,Difficulty Breathing,Pneumonia
+9,Male,High Fever,Persistent Cough,Chest Pain,Pneumonia
+43,Female,Difficulty Breathing,Chest Pain,Fatigue,Pneumonia
+16,Male,Difficulty Breathing,Persistent Cough,Fatigue,Pneumonia
+53,Male,Fatigue,Difficulty Breathing,Persistent Cough,Pneumonia
+27,Female,Night Cough,Rapid Breathing,Chest Tightness,Asthma
+11,Female,No Cough,Normal Breathing,No Fever,Normal
+21,Male,Wheezing,Chest Tightness,Rapid Breathing,Asthma
+41,Female,Healthy,Clear Lungs,No Fever,Normal
+18,Male,High Fever,Fatigue,Difficulty Breathing,Pneumonia
+67,Male,Difficulty Breathing,Chest Pain,Fatigue,Pneumonia
+76,Female,Healthy,No Cough,No Fever,Normal
+54,Male,Fatigue,Chest Pain,High Fever,Pneumonia
+48,Male,Runny Nose,Mild Fever,Nasal Congestion,Respiratory Infection
+11,Female,Sneezing,Nasal Congestion,Mild Fever,Respiratory Infection
+56,Female,Sneezing,Sore Throat,Runny Nose,Respiratory Infection
+9,Female,Mild Fever,Nasal Congestion,Sneezing,Respiratory Infection
+63,Male,High Fever,Fatigue,Difficulty Breathing,Pneumonia
+78,Female,Sneezing,Mild Fever,Sore Throat,Respiratory Infection
+10,Female,No Cough,Clear Lungs,Normal Breathing,Normal
+38,Male,Nasal Congestion,Sneezing,Sore Throat,Respiratory Infection
+27,Female,No Cough,No Fever,Clear Lungs,Normal
+55,Female,Sneezing,Mild Fever,Sore Throat,Respiratory Infection
+43,Female,Fatigue,Difficulty Breathing,High Fever,Pneumonia
+77,Female,Sneezing,Sore Throat,Nasal Congestion,Respiratory Infection
+36,Female,Nasal Congestion,Sneezing,Runny Nose,Respiratory Infection
+64,Male,Wheezing,Shortness of Breath,Rapid Breathing,Asthma
+18,Male,Sneezing,Runny Nose,Mild Fever,Respiratory Infection
+34,Male,Sneezing,Nasal Congestion,Mild Fever,Respiratory Infection
+28,Female,Clear Lungs,No Fever,Healthy,Normal
+55,Male,Normal Breathing,Healthy,Clear Lungs,Normal
